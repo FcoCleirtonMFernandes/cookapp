@@ -1,11 +1,11 @@
 import { supabase } from "./supabase"
 
 async function findByIngredientsIds(ids: string[]) {
-  const { data } = await supabase
+  const { data, error } = await supabase
     .rpc("recipes_by_ingredients", { ids })
     .returns<RecipeResponse[]>()
-
-  return data ?? []
+    if (error) console.error(error)
+    else return data ?? []
 }
 
 async function show(id: string) {
