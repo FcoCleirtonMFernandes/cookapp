@@ -15,7 +15,21 @@
 
 <img align="center" src="https://github.com/FcoCleirtonMFernandes/cookapp/blob/master/assets/images/publico/cookApp.gif" >
 
-## :rocket: Como usar
+## : As tecnologias usadas foram:
+- Expo
+- Expo-Router
+- Expo-Google-Fonts
+- Expo-Linear-Gradient
+- Expo-Vvector-Icons
+- Expo-Splash-Screen
+- React-Native-Reanimated
+- React-Native-Safe-Srea-Context
+- React-Native-Async-Storage
+- React-Native-URL-Polyfill
+- React-Native-Screens
+- Supabase
+
+## : Como usar
 Para clonar e executar este aplicativo, você precisará ter instalado em sua máquina o [Git](https://git-scm.com) e em seu dispositivo movel, o EXPO. Com tudo pronto, execute as seguintes linhas de comando:
 
 ```bash
