@@ -13,7 +13,7 @@
   
 </p>
 
-<img href="https://github.com/FcoCleirtonMFernandes/cookapp/blob/master/assets/images/publico/cookApp.gif" >
+<img align="center" src="https://github.com/FcoCleirtonMFernandes/cookapp/blob/master/assets/images/publico/cookApp.gif" >
 
 ## :rocket: Como usar
 Para clonar e executar este aplicativo, você precisará ter instalado em sua máquina o [Git](https://git-scm.com) e em seu dispositivo movel, o EXPO. Com tudo pronto, execute as seguintes linhas de comando:
